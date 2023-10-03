@@ -1,7 +1,7 @@
 
 # Deploy a .NET app on Clever Cloud
 
-This is a .NET example app to test deployments on Clever Cloud.
+This is a .NET example app to test deployments on Clever Cloud. Find more information about .NET deployment in [Clever Cloud Documentation](https://www.clever-cloud.com/doc/deploy/application/dotnet/dotnet/#configure-your-dotnet-application).
 
 ## Deploy this app
 
@@ -31,4 +31,6 @@ dotnet publish -c Release MyWebApp.csproj
 ```
 
 See your app on localhost with `dotnet bin/Release/net6.0/publish/MyWebApp.dll`
+
+Happy deployments ✌️
 
