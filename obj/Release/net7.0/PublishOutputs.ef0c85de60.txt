@@ -1,0 +1,7 @@
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/MyWebApp-6
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/appsettings.json
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/MyWebApp-6.dll
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/MyWebApp-6.deps.json
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/MyWebApp-6.runtimeconfig.json
+/Users/julianavarro/wip/MyWebApp-6/bin/Release/net7.0/publish/MyWebApp-6.pdb
